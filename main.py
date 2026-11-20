@@ -2,7 +2,7 @@ tasks = [
     {"title": "Complete Python homework", "priority": "High", "completed": False},
     {"title": "Review Git commands", "priority": "Medium", "completed": True},
     {"title": "Read Chapter 2", "priority": "Low", "completed": False},
-    {"title": "Read Chapter 2", "priority": "Low", "completed": False}
+    {"title": "Prepare for IELTS exam", "priority": "High", "completed": False}
 ]
 
 print("Task Management System")
